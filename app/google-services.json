@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161837758175",
+    "project_id": "medicinedata-41de4",
+    "storage_bucket": "medicinedata-41de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161837758175:android:9c2d23e44f7523f9309b6a",
+        "android_client_info": {
+          "package_name": "com.example.work3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161837758175-3dijtul5psvlvb4rndu8o9s2f07plq6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbf3G6Y4_Z2XswWi981T5jyxkgrmN8Okk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161837758175-3dijtul5psvlvb4rndu8o9s2f07plq6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
